@@ -1,9 +1,15 @@
-Welcome to the Brain Games!
-Here is the small game kit!
+## Welcome to the Brain Games!
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/disscate/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/disscate/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/384781d62be6cc8c362c/maintainability)](https://codeclimate.com/github/disscate/python-project-49/maintainability)
+---
+
+---
+### Installation
+`git clone https://github.com/disscate/python-project-49.git`
+
+---
 
 Brain Games consists of five games:
 
